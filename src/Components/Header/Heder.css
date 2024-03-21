@@ -1,0 +1,9 @@
+nav span, a{
+    margin-right: 20px;
+}
+nav a.active{
+    text-decoration: underline;
+    background-color: white;
+    padding: 3px;
+    border-radius: 2px;
+}
